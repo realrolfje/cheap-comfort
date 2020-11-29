@@ -26,3 +26,11 @@ Deadbug the arduino and BUK555:
 Re-use of the two color SMD LEDs I found:
 
 ![](images/smd-leds.JPG)
+
+Glued magnets to the temperature sensor so that it can be easily mounted to the heater:
+
+![](images/magnetic-temp-sensor.JPG)
+
+Everything in action. Here we see that the fans are at low speed (one red LED) and the temperature of the plates is above 30 degrees Celcius (last green led is on)
+
+![](images/fans-in-action.JPG)
