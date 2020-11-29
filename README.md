@@ -13,5 +13,16 @@ Shows temperature and fan speed on 8 LEDs
 
 Schematic:
 
-![](cheap-comfort-schematic.png)
+![](images/cheap-comfort-schematic.png)
 
+Mounting the fans between two pieces of wood:
+
+![](images/mounting-fans.JPG)
+
+Deadbug the arduino and BUK555:
+
+![](images/mounting-arduino.JPG)
+
+Re-use of the two color SMD LEDs I found:
+
+![](images/smd-leds.JPG)
